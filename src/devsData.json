@@ -1,0 +1,29 @@
+{
+    "devs": [
+        {
+            "id": 1,
+            "name": "Jana Veselá",
+            "role": "senior"            
+        },
+        {
+            "id": 2,
+            "name": "Pepa Novák",
+            "role": "senior"
+        },
+        {
+            "id": 3,
+            "name": "Jindra Uhlířů",
+            "role": "senior"
+        },
+        {
+            "id": 4,
+            "name": "Petra Nováková",
+            "role": "junior"
+        },
+        {
+            "id": 5,
+            "name": "John Sanders",
+            "role": "junior"
+        }
+    ]
+}
